@@ -141,8 +141,6 @@ neo@nebuchadnezzar:~$ █
 
 <img src="https://streak-stats.demolab.com?user=yunuszoro46-sketch&hide_border=true&background=000000&ring=FF2A6D&fire=FF6B00&currStreakLabel=00FF41&sideLabels=05D9E8&currStreakNum=B6FFCB&sideNums=B6FFCB&dates=4A7A55&stroke=0B2A14" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yunuszoro46-sketch&bg_color=000000&color=00ff41&line=ff2a6d&point=05d9e8&area=true&area_color=00ff41&hide_border=true&custom_title=Signal%20strength%20%E2%80%94%20last%2031%20cycles" />
-
 </div>
 
 <img src="./assets/divider.svg" width="100%" />
