@@ -126,7 +126,7 @@ Technologies I have used in the projects above or in my coursework and practice 
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yunuszoro46-sketch&show_icons=true&hide_border=true&hide_rank=true&bg_color=00000000&title_color=10b981&icon_color=10b981&text_color=8b949e&count_private=true" height="160" alt="GitHub statistics for yunuszoro46-sketch" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yunuszoro46-sketch&show_icons=true&hide_border=true&hide_rank=true&bg_color=00000000&title_color=10b981&icon_color=10b981&text_color=8b949e&count_private=true&disable_animations=true" height="160" alt="GitHub statistics for yunuszoro46-sketch" />
 </p>
 
 <p align="center"><sub>The full contribution graph is shown below this README on the profile page.</sub></p>
