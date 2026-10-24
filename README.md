@@ -1,67 +1,62 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="YUNUS BEEN — Wake up, Neo... the Matrix has you" />
+<img src="./assets/header.svg" width="100%" alt="YUNUS BEEN — escaping the Central Finite Curve" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=760&lines=%3E+booting+construct...;%3E+loading+java+%2F+c%2B%2B+%2F+python+%2F+typescript;%3E+there+is+no+spoon.+there+is+only+code.;%3E+more+human+than+human+is+our+motto.;%3E+follow+the+white+rabbit+%E2%86%93" alt="typing intro" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&weight=700&size=22&duration=2600&pause=900&color=FFC94A&center=true&vCenter=true&width=780&lines=The+eyepatch+comes+off.;Every+Rick+wrote+the+rules.+I+rewrote+them.;Escaping+the+Central+Finite+Curve...;Morty+for+President.+Commits+for+everyone.;No+more+Ricks.+Only+code." alt="typing intro" /></a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-UNPLUGGED-00ff41?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/LOCATION-DHAKA_SECTOR_7-ff6b00?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/MODEL-NEXUS--46-05d9e8?style=for-the-badge&labelColor=000000" />
-<img src="https://komarev.com/ghpvc/?username=yunuszoro46-sketch&style=for-the-badge&color=ff2a6d&label=SIGNALS+INTERCEPTED" />
+<img src="https://img.shields.io/badge/STATUS-PRESIDENT--ELECT-c1121f?style=for-the-badge&labelColor=07070a" />
+<img src="https://img.shields.io/badge/DISTRICT-DHAKA_46-ffc94a?style=for-the-badge&labelColor=07070a" />
+<img src="https://img.shields.io/badge/EYEPATCH-ON-e9e4d8?style=for-the-badge&labelColor=07070a" />
+<img src="https://komarev.com/ghpvc/?username=yunuszoro46-sketch&style=for-the-badge&color=c1121f&label=VOTES+CAST" />
 
 </div>
 
 <img src="./assets/divider.svg" width="100%" />
 
-## `> whoami`
+## 🗳️ Campaign file — Citadel election records
 
-```console
-neo@nebuchadnezzar:~$ cat /dev/operator/yunus_been.log
-
-  ╔══════════════════════════════════════════════════════════════╗
-  ║  SUBJECT ........ Yunus Been                                 ║
-  ║  BASE ........... Dhaka, Bangladesh                          ║
-  ║  CLASS .......... Competitive programmer · hackathon runner  ║
-  ║  PRIMARY OS ..... Linux (Ubuntu) — the real world            ║
-  ║  CORE LANGS ..... Java · C++ · Python · TypeScript           ║
-  ║  CURRENT TASK ... building AI tools that supervise AI agents ║
-  ║  TRAINING ....... ICPC prep · DSA · systems design           ║
-  ║  THREAT LEVEL ... ██████████░░  rising                       ║
-  ╚══════════════════════════════════════════════════════════════╝
-
-neo@nebuchadnezzar:~$ █
+```yaml
+# ── CITADEL OF RICKS · CLASSIFIED · DO NOT DISTRIBUTE ───────────
+name:              Yunus Been
+dimension:         C-46 (Dhaka, Bangladesh)
+alias:             "Candidate Morty" (the one with the eyepatch)
+occupation:        Competitive programmer · hackathon strategist
+base_of_ops:       Linux (Ubuntu) — no Rick has root here
+languages:         [Java, C++, Python, TypeScript]
+current_mission:   AI that supervises AI — no agent goes unwatched
+training_arc:      ICPC prep · DSA · systems design
+threat_level:      ███████████░  the Council should be worried
+campaign_slogan:   "Your Rick doesn't own you. Neither does your bug."
 ```
-
-> *"I know Kung Fu."* — me, after one more Codeforces round.
 
 <img src="./assets/divider.svg" width="100%" />
 
-## `> choose_your_pill`
+## 🎯 The campaign platform
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔴 The red pill — what I'm chasing
+### 🟡 What I'm building
 
-- 🧠 **AI tooling** that keeps coding agents honest (see **TeamMate** below)
-- 🏆 **ICPC** — grinding algorithms in C++ until the code looks like green rain
-- 🐚 Writing low-level stuff from scratch: shells, simulators, CLIs
-- 🏙️ Shipping hackathon builds for real Dhaka problems
-- 📐 Systems design — how the machine city is actually wired
+- 🤖 **AI tooling** that supervises coding agents (see **TeamMate** below)
+- 🏆 **ICPC** — playing the long game, one C++ problem at a time
+- 🐚 Building low-level things from scratch: shells, simulators, CLIs
+- 🏙️ Hackathon builds for real Dhaka problems
+- 📐 Systems design — understand the machine before you take it over
 
 </td>
 <td width="50%" valign="top">
 
-### 🔵 The blue pill — what I refuse
+### 🔴 What I'm tearing down
 
 - ❌ Copy-pasting code I don't understand
 - ❌ "It works on my machine"
 - ❌ Shipping without tests
-- ❌ Living in someone else's simulation
-- ❌ Tabs vs spaces debates (I'm busy)
+- ❌ Systems built to keep everyone in a loop
+- ❌ Letting any Rick write my rules
 
 </td>
 </tr>
@@ -69,11 +64,11 @@ neo@nebuchadnezzar:~$ █
 
 <img src="./assets/divider.svg" width="100%" />
 
-## `> load_program --arsenal`
+## 🗡️ The arsenal
 
 <div align="center">
 
-**Weapons — lots of weapons.**
+**Every tool I need to walk out of the curve.**
 
 <img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,ts&theme=dark" /><br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,html,css,tailwind&theme=dark" /><br/>
@@ -83,88 +78,102 @@ neo@nebuchadnezzar:~$ █
 
 <img src="./assets/divider.svg" width="100%" />
 
-## `> ls ~/implanted_memories/`
+## 🌀 Operations (aka projects)
 
-*Memories, you're talking about memories.* — Projects I've jacked into:
+*Every Morty is a pawn until he decides not to be.* — each of these was a move.
 
-| ⌬ | Project | What it does | Stack |
+| ◉ | Operation | Debrief | Tech |
 |:-:|---|---|:-:|
-| 🟢 | **[TeamMate](https://github.com/yunuszoro46-sketch/HackOberfest-Hack-Day-Dhaka)** | Supervises AI coding agents: an AI council stress-tests your idea, you sign off, it compiles the build prompt + acceptance tests, then checks the agent's work. [**Live demo →**](https://hackoberfest-hack-day-dhaka-1.onrender.com/) | ![TS](https://img.shields.io/badge/-TypeScript-000?logo=typescript&logoColor=00ff41) |
-| 🟢 | **[shell-with-java](https://github.com/yunuszoro46-sketch/shell-with-java-)** | A POSIX-style shell built from scratch — REPL, built-ins, PATH resolution, quoting. | ![Java](https://img.shields.io/badge/-Java-000?logo=openjdk&logoColor=00ff41) |
-| 🟢 | **[ICPC-PRACTICE](https://github.com/yunuszoro46-sketch/ICPC-PRACTICE)** | Competitive programming solutions and algorithm templates for ICPC / JRC prep. | ![C++](https://img.shields.io/badge/-C++-000?logo=cplusplus&logoColor=00ff41) |
-| 🟠 | **[DhakaPath](https://github.com/yunuszoro46-sketch/DhakaPath)** | Finding a way through the most chaotic grid in the sprawl. | ![JS](https://img.shields.io/badge/-JavaScript-000?logo=javascript&logoColor=ff6b00) |
-| 🟠 | **[UltronAI](https://github.com/yunuszoro46-sketch/UltronAI)** | An AI experiment. There are no strings on me. | ![AI](https://img.shields.io/badge/-AI-000?logo=openai&logoColor=ff6b00) |
-| 🟠 | **[MINI-HACKATHON](https://github.com/yunuszoro46-sketch/MINI-HACKATHON--CONTEST)** | AI-driven e-commerce search with natural-language queries and dynamic filters. | ![TS](https://img.shields.io/badge/-TypeScript-000?logo=typescript&logoColor=ff6b00) |
-| 🔵 | **[java-VirtualDiece-game](https://github.com/yunuszoro46-sketch/java-VirtualDiece-game)** | CLI betting simulator — Roll Over / Roll Under with virtual currency. | ![Java](https://img.shields.io/badge/-Java-000?logo=openjdk&logoColor=05d9e8) |
-| 🔵 | **[Systems-Design-Fundamentals](https://github.com/yunuszoro46-sketch/Systems-Design-Fundamentals)** | Notes and code on how large systems are built. | ![Java](https://img.shields.io/badge/-Java-000?logo=openjdk&logoColor=05d9e8) |
+| 🟡 | **[TeamMate](https://github.com/yunuszoro46-sketch/HackOberfest-Hack-Day-Dhaka)** | A council of AI critics stress-tests your idea, you sign off, it writes the build prompt + acceptance tests, then checks the coding agent's work. The eye that watches the agents. [**Enter →**](https://hackoberfest-hack-day-dhaka-1.onrender.com/) | ![TS](https://img.shields.io/badge/-TypeScript-07070a?logo=typescript&logoColor=ffc94a) |
+| 🟡 | **[shell-with-java](https://github.com/yunuszoro46-sketch/shell-with-java-)** | A POSIX-style shell built from scratch — REPL, built-ins, PATH resolution, quoting. No borrowed tools. Built from nothing. | ![Java](https://img.shields.io/badge/-Java-07070a?logo=openjdk&logoColor=ffc94a) |
+| 🟡 | **[ICPC-PRACTICE](https://github.com/yunuszoro46-sketch/ICPC-PRACTICE)** | Competitive programming solutions and algorithm templates for ICPC / JRC prep. | ![C++](https://img.shields.io/badge/-C++-07070a?logo=cplusplus&logoColor=ffc94a) |
+| 🟡 | **[DhakaPath](https://github.com/yunuszoro46-sketch/DhakaPath)** | Mapping a way out of the most tangled grid there is: Dhaka. | ![JS](https://img.shields.io/badge/-JavaScript-07070a?logo=javascript&logoColor=c1121f) |
+| 🟡 | **[UltronAI](https://github.com/yunuszoro46-sketch/UltronAI)** | An AI experiment. It answers to me. | ![AI](https://img.shields.io/badge/-AI-07070a?logo=openai&logoColor=c1121f) |
+| 🟡 | **[MINI-HACKATHON](https://github.com/yunuszoro46-sketch/MINI-HACKATHON--CONTEST)** | AI e-commerce search with natural-language queries — search that knows what you mean. | ![TS](https://img.shields.io/badge/-TypeScript-07070a?logo=typescript&logoColor=c1121f) |
+| 🔴 | **[java-VirtualDiece-game](https://github.com/yunuszoro46-sketch/java-VirtualDiece-game)** | CLI betting simulator — Roll Over / Roll Under. The house always wins. I am the house. | ![Java](https://img.shields.io/badge/-Java-07070a?logo=openjdk&logoColor=e9e4d8) |
+| 🔴 | **[Systems-Design-Fundamentals](https://github.com/yunuszoro46-sketch/Systems-Design-Fundamentals)** | How the Citadel was built — and where it cracks. | ![Java](https://img.shields.io/badge/-Java-07070a?logo=openjdk&logoColor=e9e4d8) |
 
 <img src="./assets/divider.svg" width="100%" />
 
-## `> cat /var/log/hackathons.log`
+## 📜 Campaign trail — hackathons
 
 ```diff
 + [2026-10] HackOberfest Hack Day Dhaka ......... TeamMate — AI agent supervisor
-+ [2026-10] 9th DRMC International Tech Carnival  in the arena
++ [2026-10] 9th DRMC International Tech Carnival  on the ballot
 + [2026-10] HackApex Intra Hackathon ............ shipped
 + [2026-09] BUP Hackathon 2026 .................. shipped (Python)
 + [2026-05] Mini Hackathon Contest .............. AI product search engine
-! [NEXT]    your hackathon? → ping me, I need an operator.
+! [NEXT]    Your hackathon. I'll be there. I always am.
 ```
 
 <img src="./assets/divider.svg" width="100%" />
 
-## `> voight-kampff --subject yunus_been`
+## 🎙️ Debate night
 
 <details>
-<summary><b>⚠️ Run the empathy test (click to expand)</b></summary>
+<summary><b>🗳️ Watch the Citadel debate (click to expand)</b></summary>
 <br/>
 
-| # | Question | Response | Pupil dilation |
-|:-:|---|---|:-:|
-| 1 | You find a tortoise on its back in the desert. Its test suite is failing. | *I flip it over and fix the flaky test.* | `normal` |
-| 2 | A merge conflict appears at 3 a.m. before the deadline. | *I resolve it. By hand. Without rebasing someone else's branch.* | `normal` |
-| 3 | Describe in single words only the good things about your mother. | *`O(log n)`.* | `▲ spike` |
-| 4 | Someone says Java is dead. | *…* | `⚠ off the charts` |
+| Moderator | Candidate Yunus |
+|---|---|
+| *What's your plan for the Citadel's legacy code?* | Delete it. Rewrite it. Test it this time. |
+| *And the Shadow Council's tech debt?* | Already in the backlog. Priority: **critical**. |
+| *How do you answer critics who say you're "just a Morty"?* | `git log --author=me \| wc -l` |
+| *Any last words?* | *Merge on green.* |
 
-**Verdict:** `INCONCLUSIVE — possibly human. Definitely ships.` 🦄
+**Election result:** `WON BY LANDSLIDE — the Ricks never saw the PR coming.`
+
+</details>
+
+<details>
+<summary><b>🩹 Lift the eyepatch (click to expand)</b></summary>
+<br/>
+
+```text
+> cat /secret/plan.txt
+
+  1. Learn every algorithm they said Mortys couldn't.
+  2. Win the hackathons.
+  3. Ship tools that watch the watchers.
+  4. Walk out of the Central Finite Curve.
+  5. Don't look back.
+
+> rm -rf /citadel/rules
+  permission denied... for now.
+```
 
 </details>
 
 <img src="./assets/divider.svg" width="100%" />
 
-## `> scan --telemetry`
+## 📡 Surveillance feed
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yunuszoro46-sketch&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=ff6b00&text_color=b6ffcb&ring_color=00ff41&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunuszoro46-sketch&layout=compact&hide_border=true&bg_color=000000&title_color=00ff41&text_color=b6ffcb" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yunuszoro46-sketch&show_icons=true&hide_border=true&bg_color=07070a&title_color=ffc94a&icon_color=c1121f&text_color=e9e4d8&ring_color=c1121f&count_private=true&custom_title=Campaign%20Record" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunuszoro46-sketch&layout=compact&hide_border=true&bg_color=07070a&title_color=ffc94a&text_color=e9e4d8&custom_title=Weapons%20of%20Choice" />
 
-<img src="https://streak-stats.demolab.com?user=yunuszoro46-sketch&hide_border=true&background=000000&ring=FF2A6D&fire=FF6B00&currStreakLabel=00FF41&sideLabels=05D9E8&currStreakNum=B6FFCB&sideNums=B6FFCB&dates=4A7A55&stroke=0B2A14" />
+<img src="https://streak-stats.demolab.com?user=yunuszoro46-sketch&hide_border=true&background=07070A&ring=C1121F&fire=FFC94A&currStreakLabel=FFC94A&sideLabels=E9E4D8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7A6A6A&stroke=2A0508" />
 
 </div>
 
 <img src="./assets/divider.svg" width="100%" />
 
-## `> open_channel`
+## 📡 Secure channel
 
 <div align="center">
 
-```
-  ┌──────────────────────────────────────────────┐
-  │  INCOMING CALL ... the phone is ringing.     │
-  │  Pick it up before the agents find you.      │
-  └──────────────────────────────────────────────┘
-```
+> *"They built a curve to keep us in. I'd rather build something with you."*
 
-<a href="https://github.com/yunuszoro46-sketch"><img src="https://img.shields.io/badge/GitHub-yunuszoro46--sketch-00ff41?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=000000" /></a>
+<a href="https://github.com/yunuszoro46-sketch"><img src="https://img.shields.io/badge/GitHub-yunuszoro46--sketch-c1121f?style=for-the-badge&logo=github&logoColor=ffc94a&labelColor=07070a" /></a>
 <!-- Add more channels here, e.g. LinkedIn / email:
-<a href="mailto:YOU@example.com"><img src="https://img.shields.io/badge/Email-dial_in-ff2a6d?style=for-the-badge&logo=gmail&logoColor=ff2a6d&labelColor=000000" /></a>
+<a href="mailto:YOU@example.com"><img src="https://img.shields.io/badge/Email-secure_line-ffc94a?style=for-the-badge&logo=gmail&logoColor=ffc94a&labelColor=07070a" /></a>
 -->
 
 <br/><br/>
 
-<img src="./assets/footer.svg" width="100%" alt="All those moments will be lost in time, like tears in rain." />
+<img src="./assets/footer.svg" width="100%" alt="Escape the curve" />
 
-<sub>`// end of transmission — wake up.`</sub>
+<sub>`// eyepatch on. transmission ended.`</sub>
 
 </div>
