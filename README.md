@@ -1,179 +1,145 @@
-<div align="center">
+<!-- Profile README for github.com/yunuszoro46-sketch. Banner and footer are static SVGs in ./assets. -->
 
-<img src="./assets/header.svg" width="100%" alt="YUNUS BEEN — escaping the Central Finite Curve" />
+<p align="center">
+  <img src="./assets/banner.svg" width="100%" alt="Yunus Been Hashem — Aspiring Software Engineer, AI and Full-Stack Development. CSE at University of Asia Pacific, Dhaka." />
+</p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&weight=700&size=22&duration=2600&pause=900&color=FFC94A&center=true&vCenter=true&width=780&lines=The+eyepatch+comes+off.;Every+Rick+wrote+the+rules.+I+rewrote+them.;Escaping+the+Central+Finite+Curve...;Morty+for+President.+Commits+for+everyone.;No+more+Ricks.+Only+code." alt="typing intro" /></a>
+<h1 align="center">Yunus Been Hashem</h1>
 
-<br/>
+<p align="center">
+  <b>Aspiring Software Engineer · AI &amp; Full-Stack Development</b><br/>
+  CSE undergraduate at University of Asia Pacific, Dhaka. I build practical, tested software for real local problems.
+</p>
 
-<img src="https://img.shields.io/badge/STATUS-PRESIDENT--ELECT-c1121f?style=for-the-badge&labelColor=07070a" />
-<img src="https://img.shields.io/badge/DISTRICT-DHAKA_46-ffc94a?style=for-the-badge&labelColor=07070a" />
-<img src="https://img.shields.io/badge/EYEPATCH-ON-e9e4d8?style=for-the-badge&labelColor=07070a" />
-<img src="https://komarev.com/ghpvc/?username=yunuszoro46-sketch&style=for-the-badge&color=c1121f&label=VOTES+CAST" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/yunus-been-hashem-7632b3444/"><img src="https://img.shields.io/badge/LinkedIn-Yunus_Been_Hashem-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn: Yunus Been Hashem" /></a>
+  <a href="https://github.com/yunuszoro46-sketch"><img src="https://img.shields.io/badge/GitHub-yunuszoro46--sketch-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub: yunuszoro46-sketch" /></a>
+  <a href="#featured-projects"><img src="https://img.shields.io/badge/Projects-4_featured-10b981?style=flat-square" alt="Jump to featured projects" /></a>
+  <a href="#achievements"><img src="https://img.shields.io/badge/Hackathons-2×_Champion-10b981?style=flat-square" alt="Jump to achievements" /></a>
+</p>
 
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/yunus-been-hashem-7632b3444/">LinkedIn</a> ·
+  <a href="https://github.com/yunuszoro46-sketch">GitHub</a> ·
+  <a href="#featured-projects">Projects</a> ·
+  <a href="#achievements">Achievements</a> ·
+  <a href="#contact">Contact</a>
+</p>
 
-<img src="./assets/divider.svg" width="100%" />
+---
 
-## 🗳️ Campaign file — Citadel election records
+## About Me
 
-```yaml
-# ── CITADEL OF RICKS · CLASSIFIED · DO NOT DISTRIBUTE ───────────
-name:              Yunus Been
-dimension:         C-46 (Dhaka, Bangladesh)
-alias:             "Candidate Morty" (the one with the eyepatch)
-occupation:        Competitive programmer · hackathon strategist
-base_of_ops:       Linux (Ubuntu) — no Rick has root here
-languages:         [Java, C++, Python, TypeScript]
-current_mission:   AI that supervises AI — no agent goes unwatched
-training_arc:      ICPC prep · DSA · systems design
-threat_level:      ███████████░  the Council should be worried
-campaign_slogan:   "Your Rick doesn't own you. Neither does your bug."
-```
+I'm a Computer Science and Engineering undergraduate at the **University of Asia Pacific (UAP)** in Dhaka. I like software that solves a specific problem for specific people: event registration for a student club, generator schedules during load-shedding, routes and fares for Dhaka commuters.
 
-<img src="./assets/divider.svg" width="100%" />
+Most of what I've built started at a hackathon. The format suits me: a fixed deadline, a real brief, and a working demo at the end. Lately I've focused on **AI-powered applications**, with one rule I try to keep: the core logic should be deterministic and tested, and the model should add value on top of it rather than hold the system up. I use AI coding tools in my workflow and check their output with automated tests.
 
-## 🎯 The campaign platform
+Alongside projects, I'm strengthening my computer science fundamentals — data structures and algorithms in C++, and core concepts in Java — because I want to write software that stays maintainable after the demo.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## Achievements
 
-### 🟡 What I'm building
+| Result | Competition | Details |
+|---|---|---|
+| **Champion** (1st place) | 9th DRMC International Tech Carnival 2026 — AI Web Development segment | Organized by DRMC IT Club · Project: [Smart Club Operations](https://github.com/yunuszoro46-sketch/9th-DRMC-International-Tech-Carnival-2026-) |
+| **Champion** | UAP HackApex Intra Hackathon | 40+ participating teams · Project: [StayOn](https://github.com/yunuszoro46-sketch/HackApex-Intra-Hackathon) (team) |
+| **Rising Star** | Mini Hackathon Contest, Dev Fusion — May 2026 | Software &amp; Hardware Club, CSE-UAP · Team "The Beta Testers" |
 
-- 🤖 **AI tooling** that supervises coding agents (see **TeamMate** below)
-- 🏆 **ICPC** — playing the long game, one C++ problem at a time
-- 🐚 Building low-level things from scratch: shells, simulators, CLIs
-- 🏙️ Hackathon builds for real Dhaka problems
-- 📐 Systems design — understand the machine before you take it over
+Also built for: 3rd IAIT National IT Fest Hackathon (INIF 2026) — [DhakaPath](https://github.com/yunuszoro46-sketch/DhakaPath) · HackOberfest Hack Day Dhaka — [TeamMate](https://github.com/yunuszoro46-sketch/HackOberfest-Hack-Day-Dhaka)
 
-</td>
-<td width="50%" valign="top">
+## Featured Projects
 
-### 🔴 What I'm tearing down
+### Smart Club Operations Platform
+<sub><code>0x01</code> · Champion project, AI Web Development — 9th DRMC International Tech Carnival 2026</sub>
 
-- ❌ Copy-pasting code I don't understand
-- ❌ "It works on my machine"
-- ❌ Shipping without tests
-- ❌ Systems built to keep everyone in a loop
-- ❌ Letting any Rick write my rules
+Student clubs run events on Google Forms, spreadsheets and chat groups. This platform replaces that with one system: **Club → Fest → Event → Registration → Digital Pass**.
 
-</td>
-</tr>
-</table>
+- Event discovery with search and club/category filters; registration without an account
+- Organizer console with a **registration form builder**, approval flow, archiving and a live dashboard
+- Server-enforced rules: deadlines, seat limits, duplicate prevention; **QR digital passes** that can be revoked
+- Organizer sign-in exchanges a shared key for a short-lived JWT
+- "Tech Guide" assistant answers from live event data; an OpenAI-compatible model is optional and off by default
 
-<img src="./assets/divider.svg" width="100%" />
+**Stack:** React 19 · Vite · Node.js (native HTTP, layered services/repositories) · SQLite (`node:sqlite`)<br/>
+[Repository](https://github.com/yunuszoro46-sketch/9th-DRMC-International-Tech-Carnival-2026-) · [Live demo](https://nineth-drmc-international-tech-carnival.onrender.com/)
 
-## 🗡️ The arsenal
+### StayOn — generator rosters for load-shedding days
+<sub><code>0x02</code> · Team project · UAP HackApex Intra Hackathon</sub>
 
-<div align="center">
+A shopping complex has one generator, a fixed diesel budget and more demand than capacity. StayOn decides, for every outage hour, which shops stay on.
 
-**Every tool I need to walk out of the curve.**
+- Computes a roster that is **proven optimal** within the rules: never overloads the generator, never exceeds the diesel budget, always powers mandatory loads (e.g. a pharmacy fridge)
+- Gives a reason with real numbers for every shop left dark
+- When no roster can satisfy every rule, reports which rule fails and by how much
+- 39 automated tests, including a comparison against a brute-force solver on 300 random markets; zero dependencies
 
-<img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,ts&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,html,css,tailwind&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,git,github,vscode&theme=dark" />
+**Stack:** JavaScript · Node.js · Node test runner<br/>
+[Repository](https://github.com/yunuszoro46-sketch/HackApex-Intra-Hackathon) · [Live demo](https://hackapex-intra-hackathon-6d7w.onrender.com/)
 
-</div>
+### DhakaPath — route, fare and street-alert assistant
+<sub><code>0x03</code> · Team project · INIF 2026 Smart City hackathon</sub>
 
-<img src="./assets/divider.svg" width="100%" />
+Getting across Dhaka means combining buses, metro, rickshaws and CNGs with unclear fares. DhakaPath plans multi-mode trips over a transit graph.
 
-## 🌀 Operations (aka projects)
+- The network graph decides routes, fares and alerts; AI only interprets messages and phrases explanations — **everything works without an AI key**
+- Bus and MRT-6 fares follow published official rates; rickshaw and CNG fares are clearly labelled as estimates
+- Monsoon mode for heavy-rain disruptions, full Bangla interface, admin CMS for alerts
+- 96 automated tests; one Node.js process, no database, no required dependencies
 
-*Every Morty is a pawn until he decides not to be.* — each of these was a move.
+**Stack:** Node.js · vanilla JavaScript (ES modules) · Leaflet · optional Gemini / Groq<br/>
+[Repository](https://github.com/yunuszoro46-sketch/DhakaPath) · [Live demo](https://threerd-iait-national-it-fest-hackathon.onrender.com/)
 
-| ◉ | Operation | Debrief | Tech |
-|:-:|---|---|:-:|
-| 🟡 | **[TeamMate](https://github.com/yunuszoro46-sketch/HackOberfest-Hack-Day-Dhaka)** | A council of AI critics stress-tests your idea, you sign off, it writes the build prompt + acceptance tests, then checks the coding agent's work. The eye that watches the agents. [**Enter →**](https://hackoberfest-hack-day-dhaka-1.onrender.com/) | ![TS](https://img.shields.io/badge/-TypeScript-07070a?logo=typescript&logoColor=ffc94a) |
-| 🟡 | **[shell-with-java](https://github.com/yunuszoro46-sketch/shell-with-java-)** | A POSIX-style shell built from scratch — REPL, built-ins, PATH resolution, quoting. No borrowed tools. Built from nothing. | ![Java](https://img.shields.io/badge/-Java-07070a?logo=openjdk&logoColor=ffc94a) |
-| 🟡 | **[ICPC-PRACTICE](https://github.com/yunuszoro46-sketch/ICPC-PRACTICE)** | Competitive programming solutions and algorithm templates for ICPC / JRC prep. | ![C++](https://img.shields.io/badge/-C++-07070a?logo=cplusplus&logoColor=ffc94a) |
-| 🟡 | **[DhakaPath](https://github.com/yunuszoro46-sketch/DhakaPath)** | Mapping a way out of the most tangled grid there is: Dhaka. | ![JS](https://img.shields.io/badge/-JavaScript-07070a?logo=javascript&logoColor=c1121f) |
-| 🟡 | **[UltronAI](https://github.com/yunuszoro46-sketch/UltronAI)** | An AI experiment. It answers to me. | ![AI](https://img.shields.io/badge/-AI-07070a?logo=openai&logoColor=c1121f) |
-| 🟡 | **[MINI-HACKATHON](https://github.com/yunuszoro46-sketch/MINI-HACKATHON--CONTEST)** | AI e-commerce search with natural-language queries — search that knows what you mean. | ![TS](https://img.shields.io/badge/-TypeScript-07070a?logo=typescript&logoColor=c1121f) |
-| 🔴 | **[java-VirtualDiece-game](https://github.com/yunuszoro46-sketch/java-VirtualDiece-game)** | CLI betting simulator — Roll Over / Roll Under. The house always wins. I am the house. | ![Java](https://img.shields.io/badge/-Java-07070a?logo=openjdk&logoColor=e9e4d8) |
-| 🔴 | **[Systems-Design-Fundamentals](https://github.com/yunuszoro46-sketch/Systems-Design-Fundamentals)** | How the Citadel was built — and where it cracks. | ![Java](https://img.shields.io/badge/-Java-07070a?logo=openjdk&logoColor=e9e4d8) |
+### TeamMate — a supervisor for AI coding agents
+<sub><code>0x04</code> · HackOberfest Hack Day Dhaka</sub>
 
-<img src="./assets/divider.svg" width="100%" />
+For solo builders who have an idea but no team. TeamMate turns an idea into a plan a coding agent can build — and then checks the result.
 
-## 📜 Campaign trail — hackathons
+- Five fixed questions, a "council" of three AI critics and live competitor search
+- Architecture options, a human sign-off step, then a compiled build prompt with acceptance tests
+- Verifies a coding agent's report against each acceptance criterion and writes the fix-up prompt
+- Every generated field is editable and lockable, with a provenance badge; runs in a mock mode without an API key
 
-```diff
-+ [2026-10] HackOberfest Hack Day Dhaka ......... TeamMate — AI agent supervisor
-+ [2026-10] 9th DRMC International Tech Carnival  on the ballot
-+ [2026-10] HackApex Intra Hackathon ............ shipped
-+ [2026-09] BUP Hackathon 2026 .................. shipped (Python)
-+ [2026-05] Mini Hackathon Contest .............. AI product search engine
-! [NEXT]    Your hackathon. I'll be there. I always am.
-```
+**Stack:** Next.js · TypeScript · Tailwind CSS · Gemini API · Tavily search · Vitest · Playwright<br/>
+[Repository](https://github.com/yunuszoro46-sketch/HackOberfest-Hack-Day-Dhaka) · [Live demo](https://hackoberfest-hack-day-dhaka-1.onrender.com/)
 
-<img src="./assets/divider.svg" width="100%" />
+<sub>Demos run on free hosting tiers; the first load after a quiet period can take up to a minute.</sub>
 
-## 🎙️ Debate night
+## Tech Stack
 
-<details>
-<summary><b>🗳️ Watch the Citadel debate (click to expand)</b></summary>
-<br/>
+Technologies I have used in the projects above or in my coursework and practice repositories.
 
-| Moderator | Candidate Yunus |
+| Area | Technologies |
 |---|---|
-| *What's your plan for the Citadel's legacy code?* | Delete it. Rewrite it. Test it this time. |
-| *And the Shadow Council's tech debt?* | Already in the backlog. Priority: **critical**. |
-| *How do you answer critics who say you're "just a Morty"?* | `git log --author=me \| wc -l` |
-| *Any last words?* | *Merge on green.* |
+| **Languages** | <img src="https://skillicons.dev/icons?i=java,cpp,python,ts,js&theme=dark" height="32" alt="" /><br/>Java · C++ · Python · TypeScript · JavaScript |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css&theme=dark" height="32" alt="" /><br/>React · Next.js · Vite · Tailwind CSS · HTML · CSS |
+| **Backend &amp; data** | <img src="https://skillicons.dev/icons?i=nodejs,sqlite&theme=dark" height="32" alt="" /><br/>Node.js (native HTTP, REST APIs) · SQLite |
+| **AI** | Gemini API · OpenAI-compatible APIs · Groq · Tavily search · AI coding assistants |
+| **Testing** | Vitest · Playwright · Node test runner |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" height="32" alt="" /><br/>Git · GitHub · Linux (Ubuntu) · VS Code · Render · Vercel |
 
-**Election result:** `WON BY LANDSLIDE — the Ricks never saw the PR coming.`
+## Currently Learning
 
-</details>
+- **Data structures and algorithms** — competitive programming practice in C++ ([ICPC-PRACTICE](https://github.com/yunuszoro46-sketch/ICPC-PRACTICE))
+- **Java and computer science fundamentals** — OOP, core Java, systems design basics
+- **Full-stack application development** — cleaner architecture, testing and deployment
+- **AI-powered software and developer tooling** — reliable LLM integration and agent workflows
 
-<details>
-<summary><b>🩹 Lift the eyepatch (click to expand)</b></summary>
-<br/>
+## GitHub Activity
 
-```text
-> cat /secret/plan.txt
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yunuszoro46-sketch&show_icons=true&hide_border=true&hide_rank=true&bg_color=00000000&title_color=10b981&icon_color=10b981&text_color=8b949e&count_private=true" height="160" alt="GitHub statistics for yunuszoro46-sketch" />
+</p>
 
-  1. Learn every algorithm they said Mortys couldn't.
-  2. Win the hackathons.
-  3. Ship tools that watch the watchers.
-  4. Walk out of the Central Finite Curve.
-  5. Don't look back.
+<p align="center"><sub>The full contribution graph is shown below this README on the profile page.</sub></p>
 
-> rm -rf /citadel/rules
-  permission denied... for now.
-```
+## Contact
 
-</details>
+I'm open to internships, collaborations and hackathon teams.
 
-<img src="./assets/divider.svg" width="100%" />
+- **LinkedIn:** [linkedin.com/in/yunus-been-hashem-7632b3444](https://www.linkedin.com/in/yunus-been-hashem-7632b3444/)
+- **GitHub:** [github.com/yunuszoro46-sketch](https://github.com/yunuszoro46-sketch)
 
-## 📡 Surveillance feed
+---
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yunuszoro46-sketch&show_icons=true&hide_border=true&bg_color=07070a&title_color=ffc94a&icon_color=c1121f&text_color=e9e4d8&ring_color=c1121f&count_private=true&custom_title=Campaign%20Record" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunuszoro46-sketch&layout=compact&hide_border=true&bg_color=07070a&title_color=ffc94a&text_color=e9e4d8&custom_title=Weapons%20of%20Choice" />
-
-<img src="https://streak-stats.demolab.com?user=yunuszoro46-sketch&hide_border=true&background=07070A&ring=C1121F&fire=FFC94A&currStreakLabel=FFC94A&sideLabels=E9E4D8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7A6A6A&stroke=2A0508" />
-
-</div>
-
-<img src="./assets/divider.svg" width="100%" />
-
-## 📡 Secure channel
-
-<div align="center">
-
-> *"They built a curve to keep us in. I'd rather build something with you."*
-
-<a href="https://github.com/yunuszoro46-sketch"><img src="https://img.shields.io/badge/GitHub-yunuszoro46--sketch-c1121f?style=for-the-badge&logo=github&logoColor=ffc94a&labelColor=07070a" /></a>
-<!-- Add more channels here, e.g. LinkedIn / email:
-<a href="mailto:YOU@example.com"><img src="https://img.shields.io/badge/Email-secure_line-ffc94a?style=for-the-badge&logo=gmail&logoColor=ffc94a&labelColor=07070a" /></a>
--->
-
-<br/><br/>
-
-<img src="./assets/footer.svg" width="100%" alt="Escape the curve" />
-
-<sub>`// eyepatch on. transmission ended.`</sub>
-
-</div>
+<p align="center">
+  <img src="./assets/footer.svg" width="100%" alt="// There is no spoon. There is only the next problem to solve." />
+</p>
