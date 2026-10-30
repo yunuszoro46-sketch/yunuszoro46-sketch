@@ -140,15 +140,8 @@ Also built for: 3rd IAIT National IT Fest Hackathon (INIF 2026) — [DhakaPath](
 - **Full-stack application development** — cleaner architecture, testing and deployment
 - **AI-powered software and developer tooling** — reliable LLM integration and agent workflows
 
-<img src="./assets/prompt-activity.svg" height="26" alt="yunus@uap:~$ gh stats" />
 
-## GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yunuszoro46-sketch&show_icons=true&hide_border=true&hide_rank=true&bg_color=00000000&title_color=10b981&icon_color=10b981&text_color=8b949e&count_private=true&disable_animations=true" height="160" alt="GitHub statistics for yunuszoro46-sketch" />
-</p>
-
-<p align="center"><sub>The full contribution graph is shown below this README on the profile page.</sub></p>
 
 <img src="./assets/prompt-contact.svg" height="26" alt="yunus@uap:~$ ./contact --hire" />
 
